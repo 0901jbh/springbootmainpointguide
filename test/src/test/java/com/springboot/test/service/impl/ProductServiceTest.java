@@ -1,4 +1,4 @@
-package com.springboot.test.impl;
+package com.springboot.test.service.impl;
 
 import com.springboot.test.data.dto.ProductDto;
 import com.springboot.test.data.dto.ProductResponseDto;
